@@ -1,0 +1,15 @@
+/* Custom CSS to reduce the gap between home info and posts */
+
+/* Override the min-height for home-info specifically */
+.first-entry.home-info {
+    min-height: auto !important;
+    padding: var(--gap) 0;
+}
+
+/* Alternative: reduce the min-height instead of removing it completely */
+/* Uncomment the lines below if you want to keep some height but reduce it */
+/*
+.first-entry.home-info {
+    min-height: 120px !important;
+}
+*/

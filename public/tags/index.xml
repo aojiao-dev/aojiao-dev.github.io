@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Ao&#39;Log</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 24 Sep 2025 20:16:27 -0700</lastBuildDate>
     <atom:link href="https://aojiao-dev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://aojiao-dev.github.io/tags/hugo/</link>
+      <pubDate>Wed, 24 Sep 2025 20:16:27 -0700</pubDate>
+      <guid>https://aojiao-dev.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://aojiao-dev.github.io/tags/test/</link>
+      <pubDate>Wed, 24 Sep 2025 20:16:27 -0700</pubDate>
+      <guid>https://aojiao-dev.github.io/tags/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
