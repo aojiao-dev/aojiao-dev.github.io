@@ -1,4 +1,25 @@
-baseURL: https://example.org/
+baseURL: https://aojiao-dev.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Ao'Log
+
 theme: ["PaperMod"]
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: 👋 Welcome
+    Content: Hi, this is Ao. I'm sharing my learnings on various topics.
+  
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/aojiao/"
+    - name: "Github"
+      url: "https://github.com/aojiao-dev"
+  
+outputs:
+    home:
+      - HTML
+      - RSS
+      - JSON
