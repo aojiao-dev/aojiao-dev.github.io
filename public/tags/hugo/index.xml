@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Ao&#39;Log</title>
-    <link>https://aojiao-dev.github.io/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Ao&#39;Log</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2025 20:16:27 -0700</lastBuildDate>
-    <atom:link href="https://aojiao-dev.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 10 01 Test Post</title>
-      <link>https://aojiao-dev.github.io/posts/2025-10-01-test-post-2/</link>
+      <link>http://localhost:1313/posts/2025-10-01-test-post-2/</link>
       <pubDate>Wed, 24 Sep 2025 20:16:27 -0700</pubDate>
-      <guid>https://aojiao-dev.github.io/posts/2025-10-01-test-post-2/</guid>
+      <guid>http://localhost:1313/posts/2025-10-01-test-post-2/</guid>
       <description>This is a test post to verify the Hugo site is working correctly.</description>
     </item>
     <item>
       <title>2025 10 01 Test Post</title>
-      <link>https://aojiao-dev.github.io/posts/2025-10-01-test-post/</link>
+      <link>http://localhost:1313/posts/2025-10-01-test-post/</link>
       <pubDate>Wed, 24 Sep 2025 20:16:27 -0700</pubDate>
-      <guid>https://aojiao-dev.github.io/posts/2025-10-01-test-post/</guid>
+      <guid>http://localhost:1313/posts/2025-10-01-test-post/</guid>
       <description>This is a test post to verify the Hugo site is working correctly.</description>
     </item>
   </channel>
